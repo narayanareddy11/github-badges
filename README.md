@@ -12,15 +12,26 @@ GitHub Achievements are special badges that appear on your profile when you comp
 
 ## Achievements Overview
 
-| Badge | Description | How to Earn |
-|-------|-------------|-------------|
-| Pull Shark | Merge pull requests | Get PRs merged (tiers: x2, x4, x8, x16) |
-| YOLO | Merge without review | Merge a PR with no code review |
-| Quickdraw | Fast action | Close an issue or PR within 5 minutes of opening |
-| Pair Extraordinaire | Co-author commits | Use `Co-authored-by` in commits (tiers: x2, x4, x8) |
-| Starstruck | Popular repository | Get 16, 128, 512, or 4096 stars on a repo |
-| Galaxy Brain | Helpful in Discussions | Have an answer accepted in GitHub Discussions |
-| Public Sponsor | Support open source | Sponsor a developer via GitHub Sponsors |
+### Earnable Achievements
+
+| Badge | Description | How to Earn | Tiers |
+|-------|-------------|-------------|-------|
+| Pull Shark | Merge pull requests | Get PRs merged | x2, x4, x8, x16 |
+| YOLO | Merge without review | Merge a PR with no code review | - |
+| Quickdraw | Fast action | Close an issue or PR within 5 minutes of opening | - |
+| Pair Extraordinaire | Co-author commits | Use `Co-authored-by` in commits | x2, x4, x8 |
+| Starstruck | Popular repository | Get stars on a repo | 16, 128, 512, 4096 |
+| Galaxy Brain | Helpful in Discussions | Have 2+ answers accepted in GitHub Discussions | x2, x8, x16, x32 |
+| Public Sponsor | Support open source | Sponsor a developer via GitHub Sponsors | - |
+| Heart On Your Sleeve | React to content | React to an issue, PR, or discussion with ❤️ | - |
+| Open Sourcerer | Multi-repo contributor | Have PRs merged in multiple public repositories | - |
+
+### Legacy Achievements (No Longer Earnable)
+
+| Badge | Description |
+|-------|-------------|
+| Arctic Code Vault Contributor | Had code archived in the 2020 GitHub Arctic Vault |
+| Mars 2020 Helicopter Contributor | Contributed to repos used in the Mars mission |
 
 ---
 
@@ -30,9 +41,10 @@ This repo is used to practice and earn GitHub achievements. See [PLAN.md](./PLAN
 
 ### Quick Start
 
-1. **Fork or star** this repo to help with Starstruck
+1. **Star** this repo to help with Starstruck
 2. **Open a PR** to help earn Pull Shark and YOLO
 3. **Join the Discussion** tab to help earn Galaxy Brain
+4. **React with ❤️** on any issue or PR to earn Heart On Your Sleeve
 
 ---
 
