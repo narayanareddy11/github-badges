@@ -75,3 +75,7 @@ A step-by-step plan to earn all GitHub profile achievements.
 - Make sure your **profile is public** for achievements to show.
 - **Galaxy Brain** requires at least 2 accepted answers to unlock the base badge.
 - **Heart On Your Sleeve** may be in beta and limited to certain accounts.
+
+---
+
+Last Updated: 2026-04-03
